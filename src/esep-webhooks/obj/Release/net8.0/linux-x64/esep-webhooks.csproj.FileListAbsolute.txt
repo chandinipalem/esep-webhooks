@@ -1,0 +1,17 @@
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/esep-webhooks.deps.json
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/esep-webhooks.runtimeconfig.json
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/esep-webhooks.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/esep-webhooks.pdb
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.csproj.AssemblyReference.cache
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.AssemblyInfoInputs.cache
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.AssemblyInfo.cs
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.csproj.CoreCompileInputs.cache
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-web.0622F11D.Up2Date
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/refint/esep-webhooks.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.pdb
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/esep-webhooks.genruntimeconfig.cache
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/obj/Release/net8.0/linux-x64/ref/esep-webhooks.dll
