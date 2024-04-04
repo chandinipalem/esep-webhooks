@@ -20,8 +20,8 @@ public class Function
     {
         dynamic json = JsonConvert.DeserializeObject<dynamic>(input.ToString());
         
-        // string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
-        string payload = $"{{\"text\":\"Issue Created: {json.issue.html_url}\"}}";
+         string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
+       // string payload = $"{{\"text\":\"Issue Created: {json.issue.html_url}"}}";
 
         
         var client = new HttpClient();
