@@ -3,4 +3,5 @@
 /Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/publish/esep-webhooks.pdb
 /Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
 /Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/publish/Newtonsoft.Json.dll
 /Users/chandu/Documents/GitHub/esep-webhooks/src/esep-webhooks/bin/Release/net8.0/publish/esep-webhooks.dll
